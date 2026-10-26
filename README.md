@@ -1,4 +1,5 @@
 # Linux-Domain-Join-To-Windows-Active-Directory
+                   
                     INTERNET
                         │
                  Home Router
@@ -19,12 +20,7 @@
                  DNS
                  Group Policy
                  Event Monitoring
-
-```
----
-
-
-          
+       
 # Linux Integration with Active Directory
 
 # Enterprise Architecture
