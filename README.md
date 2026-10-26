@@ -10,7 +10,6 @@
       DC01           PC01            PC02
  Windows Server    Windows 11        Linux
      2022          Enterprise      Workstation
-
         │               │               │
         └─────── solotech.local ────────┘
 
