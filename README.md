@@ -1,28 +1,5 @@
 # Linux-Domain-Join-To-Windows-Active-Directory
                    
-                    INTERNET
-                        │
-                 Home Router
-                        │
-          Hyper-V External Switch
-                        │
-        ┌───────────────┼───────────────┐
-        │               │               │
-
-      DC01           PC01            PC02
- Windows Server    Windows 11        Linux
-     2022          Enterprise      Workstation
-
-        │               │               │
-        └─────── solotech.local ────────┘
-
-                 Active Directory
-                 DNS
-                 Group Policy
-                 Event Monitoring
-       
-# Linux Integration with Active Directory
-
 # Enterprise Architecture
 
 ```text
