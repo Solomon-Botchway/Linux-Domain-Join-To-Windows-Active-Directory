@@ -1,5 +1,11 @@
 # Linux-Domain-Join-To-Windows-Active-Directory
-                   
+   ## Overview
+
+To extend the enterprise environment beyond Windows systems, a Linux workstation (PC02) was integrated into the Active Directory domain.
+
+This project demonstrates centralized identity management across multiple operating systems using Active Directory as the single authentication source.
+
+---                
 # Enterprise Architecture
 
 ```text
@@ -40,13 +46,6 @@ Windows Server           Windows 11            Linux Workstation
              Printers and Security
          controlled through Active Directory
 ```
-## Overview
-
-To extend the enterprise environment beyond Windows systems, a Linux workstation (PC02) was integrated into the Active Directory domain.
-
-This project demonstrates centralized identity management across multiple operating systems using Active Directory as the single authentication source.
-
----
 
 ## Environment
 
